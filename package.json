@@ -1,0 +1,23 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "poc para ipiranga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edneyRoldao/e-commerce.git"
+  },
+  "author": "edneyRoldao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edneyRoldao/e-commerce/issues"
+  },
+  "homepage": "https://github.com/edneyRoldao/e-commerce#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
